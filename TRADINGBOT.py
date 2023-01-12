@@ -2,9 +2,9 @@ import ccxt
 import numpy as np
 from threading import Thread, Lock
 #these are fake api credential, if you want to use the bot insert yours but DO NOT share them with ANYBODY
-api_secret='JNXSFCCbxhYlCo/gH8JTgquHApsfe+O5yJxPUV1DCZ8oo/mMKkayfqDoJyal+yKO9561XWVouqFkn3vscrvJgg=='
-api_password='icz796riwjn'
-api_key='e306627c0f379e4f668320db0e8ce5aa'
+api_secret='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+api_password='xxxxxxxxxxx'
+api_key='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 lock= Lock()
 
